@@ -19,7 +19,8 @@ Remotes are set up for exactly that:
 
     upstream  https://github.com/avatarmanz/VIctory-7900XTX (fetched directly)
     mine      C:\GTA\ztrx
-    origin    github.com/codec-d/cool_fox (DELETED: repository not found)
+    origin    https://github.com/Pavl3000/cgbj-fork - this fork, public
+              (the old origin, github.com/codec-d/cool_fox, is deleted: 404)
 
 Upstream is a moving target: 140 commits ahead of our base at 08:34 UTC on
 2026-11-26, 146 commits and tip 9576c45 by 10:20 UTC. **Pin a commit per wave**
