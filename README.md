@@ -1,3 +1,19 @@
+> ## This fork
+>
+> A fork of **codec-d/cool_fox** at `f4b48ad` (26 November 2026), whose repository
+> was deleted from GitHub — this tree is the surviving copy of its source. It runs
+> an Xbox Series title natively on Windows from files the user supplies and
+> contains no game files, code or assets.
+>
+> Work from **avatarmanz/VIctory-7900XTX** and from **Pavl3000/ztrx** is taken in
+> one commit at a time, each naming its source and author. `docs/integration.md`
+> says what has been taken, what was deliberately left out, and why. `main` is
+> codec-d's tree as it was published; the work is on the `wave*` branches.
+>
+> Licence: GPL-3.0-or-later, as the trees it comes from. The credits below and in
+> `LICENSE` stand; `crates/victory-formats/src/bcpack-tables.bin` is the one file
+> the licence does not cover (`docs/asset-policy.md`).
+
 # VIctory on an RX 7900 XTX
 
 ## Run the codec_d Windows build
